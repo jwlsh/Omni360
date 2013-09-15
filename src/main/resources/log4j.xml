@@ -11,7 +11,7 @@
 	</appender>
 	
 	<!-- Application Loggers -->
-	<logger name="org.healthnow.c360">
+	<logger name="org.healthnow.o360">
 		<level value="info" />
 	</logger>
 	
